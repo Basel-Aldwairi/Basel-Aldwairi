@@ -1,7 +1,7 @@
 ## Basel Al-Dwairi
 
 ### Python Engineer | Applied AI, Computer Vision, & Data Systems
-[LinkedIn][0] | [Email][1]
+[LinkedIn][0] | [Email][1] | [Kaggle][2]
 ___
 
 I design and build data- and AI-driven systems in Python. I’m currently focusing 
@@ -58,3 +58,4 @@ ___
 
 [0]:https://www.linkedin.com/in/basel-al-dwairi/
 [1]:mailto:aldwairi.basel0@gmail.com
+[2]:https://www.kaggle.com/baselaldwairi
