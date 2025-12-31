@@ -4,9 +4,9 @@
 [LinkedIn][0] | [Email][1]
 ___
 
-I design and build data- and AI-driven systems in Python. I'm currently 
-focusing on strengthening my AI, software engineering, and backend foundations 
-through hands-on projects involving data scraping, collection and preprocessing, model 
+I design and build data- and AI-driven systems in Python. I’m currently focusing 
+on strengthening my software engineering and backend foundations alongside AI, through hands-on 
+projects involving data scraping, collection, preprocessing, model 
 engineering, and systems design.
 
 ___
@@ -14,21 +14,21 @@ ___
 ### Featured Projects:
 
 - **Temperature Time Series Forecasting (Deep Learning)**:
-  - 15-year dataset collected via APIs and webscraping
+  - 15-year dataset collected via APIs and web scraping
   - Custom preprocessing & TSA
   - RNN/LSTM forecasting
   - Dataset prepared for public release (Kaggle)
 
 - **Coin Sorting System (Computer Vision + Embedded)**:
-  - Deep learning + transfer learning
+  - Deep Learning + transfer learning
   - Custom multi-coin segmentation pipeline
   - TCP/IP communication with ESP hardware
-  - End-to-end software ownership (dataset - model - UI)
+  - End-to-end software ownership (dataset → model → UI)
 
 - **ASCII Art Generator (Computer Vision)**:
   - Image segmentation and processing
   - Structured ASCII rendering
-  - Backend-first design with frontend integration
+  - Backend-First Design with frontend integration
 
 - **Finance RAG System**:
   - Large-scale web scraping & cleaning
@@ -38,7 +38,7 @@ ___
 ___
 
 ### Focus Areas:
-- Applied AI & model Engineering
+- Applied AI & model engineering
 - EDA and data preprocessing
 - Backend systems (Python)
 - Computer Vision systems
@@ -48,9 +48,9 @@ ___
 
 ### Experience:
 - **AI Engineer Intern - Orange**
-  - Worked on EDA, machine learning and deep learning tasks, culminating in 
+  - Worked on EDA, machine learning and Deep Learning tasks, culminating in 
   a full RAG pipeline.
-- **Vice president - GJU AI Club**
+- **Vice President - GJU AI Club**
   - Technical and project leadership
   - Designed and implemented internal database systems
 
