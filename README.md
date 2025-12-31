@@ -1,16 +1,60 @@
-## Hi there 👋
+## Basel Al-Dwairi
 
-<!--
-**Basel-Aldwairi/Basel-Aldwairi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Engineer | Applied AI, Computer Vision, & Data Systems
+[LinkedIn][0] | [Email][1]
+___
 
-Here are some ideas to get you started:
+I design and build data- and AI-driven systems in Python. I'm currently 
+focusing on strengthening my AI, software engineering, and backend foundations 
+through hands-on projects involving data scraping, collection and preprocessing, model 
+engineering, and systems design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+### Featured Projects:
+
+- **Temperature Time Series Forecasting (Deep Learning)**:
+  - 15-year dataset collected via APIs and webscraping
+  - Custom preprocessing & TSA
+  - RNN/LSTM forecasting
+  - Dataset prepared for public release (Kaggle)
+
+- **Coin Sorting System (Computer Vision + Embedded)**:
+  - Deep learning + transfer learning
+  - Custom multi-coin segmentation pipeline
+  - TCP/IP communication with ESP hardware
+  - End-to-end software ownership (dataset - model - UI)
+
+- **ASCII Art Generator (Computer Vision)**:
+  - Image segmentation and processing
+  - Structured ASCII rendering
+  - Backend-first design with frontend integration
+
+- **Finance RAG System**:
+  - Large-scale web scraping & cleaning
+  - Retrieval-Augmented Generation pipeline
+  - Streamlit-based interface
+
+___
+
+### Focus Areas:
+- Applied AI & model Engineering
+- EDA and data preprocessing
+- Backend systems (Python)
+- Computer Vision systems
+- Software Engineering fundamentals
+
+___
+
+### Experience:
+- **AI Engineer Intern - Orange**
+  - Worked on EDA, machine learning and deep learning tasks, culminating in 
+  a full RAG pipeline.
+- **Vice president - GJU AI Club**
+  - Technical and project leadership
+  - Designed and implemented internal database systems
+
+___
+
+[0]:https://www.linkedin.com/in/basel-al-dwairi/
+[1]:mailto:aldwairi.basel0@gmail.com
